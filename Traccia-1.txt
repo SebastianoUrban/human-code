@@ -1,3 +1,16 @@
+Traccia 1
+
+Nel frigo si inizia a sentire l’eco, perciò è ora di fare rifornimenti!
+Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca in una lista, 
+così una volta al supermercato, girando tra gli scaffali, 
+posso verificare di aver preso tutto e Ricky non rimane senza crocchette come l’ultima volta, 
+povero! Devo ricordarmi di usare il coupon che scade a fine mese, 
+per il resto dovrebbero bastarmi i contanti che ho in portafogli, 
+sempre se non mi faccio prendere la mano con gli snack extra! 
+
+
+PSEUDO-CODICE
+
     -   Mi dirigo verso il frigo
     -   Apro il frigo
     -   Guardo cosa manca in frigo AND cosa manca per il Ricky 
@@ -7,7 +20,7 @@
             - non lo scrivo 
     -   Finisco di scrivere la lista 
 
-    -   * Controllo l'orario del supermercato 
+    -   * Controllo l'orario del supermercato
         -   SE il supermercato e' aperto 
             -   Mi dirigo al supermercato 
         -   ALTRIMENTI 
@@ -37,6 +50,6 @@
                 -   SE non li ho gia' spesi per gli snack
                      -    integro con i contanti 
                 -   ALTRIMENTI 
-                    -  poso gli snack 
+                    -  poso gli snack (pago con carta)
     -   Carico la spesa 
     -   Torno a casa
