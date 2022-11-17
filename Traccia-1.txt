@@ -1,0 +1,42 @@
+    -   Mi dirigo verso il frigo
+    -   Apro il frigo
+    -   Guardo cosa manca in frigo AND cosa manca per il Ricky 
+        - SE manca qualcosa 
+            - Lo scrivo nella lista 
+        - ALTRIMENTI
+            - non lo scrivo 
+    -   Finisco di scrivere la lista 
+
+    -   * Controllo l'orario del supermercato 
+        -   SE il supermercato e' aperto 
+            -   Mi dirigo al supermercato 
+        -   ALTRIMENTI 
+            - cerco un altro supermercato * 
+    -   Arrivo al supermercato
+
+    -   SE la lista e' lunga 
+        - Prendo il carrello 
+    -   ALTRIMENTI 
+        -   prendo il cestino 
+
+    -   Mi dirigo al primo reparto 
+    -  * PER ogni oggetto della lista 
+        -   SE c'e' il prodotto nel reparto 
+            -   Lo prendo
+        -   ALTRIMENTI
+            -    non lo prendo
+    
+    -   SE il reparto in cui mi trovo è l'ultimo 
+        -   Mi dirigo verso le casse 
+    -   ALTRIMENTI
+        -   Mi dirigo al reparto successivo *
+    
+    -   Arrivato alle casse
+    -   Pago con il coupon 
+        -   SE il coupon non copre il totale 
+                -   SE non li ho gia' spesi per gli snack
+                     -    integro con i contanti 
+                -   ALTRIMENTI 
+                    -  poso gli snack 
+    -   Carico la spesa 
+    -   Torno a casa
